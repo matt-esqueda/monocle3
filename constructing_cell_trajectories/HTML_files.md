@@ -1,1 +1,1 @@
-[3D_trajectories.html](https://htmlpreview.github.io/?https://github.com/matt-esqueda/monocle3/tree/main/constructing_cell_trajectories)
+[3D_trajectories.html](https://htmlpreview.github.io/?https://github.com/matt-esqueda/monocle3/blob/main/constructing_cell_trajectories/constructing_cell_trajectories.html)
